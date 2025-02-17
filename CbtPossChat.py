@@ -201,7 +201,7 @@ def main():
     create_database()
 
     # Telegram Bot Token
-    TOKEN = '7622686973:AAF9LGzYNYlbyGykax_i1VRADwYpmz1SIcw'  # Replace with your actual token
+    TOKEN = 'telegram bot token'  # Replace with your actual token
 
     # Build the application
     application = ApplicationBuilder().token(TOKEN).build()
